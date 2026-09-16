@@ -4,8 +4,8 @@ Full-stack developer working across mobile, backend, and web.
 
 ## React Native
 
-- [rn-expense-tracker](https://github.com/developeras95/rn-expense-tracker) — expense tracking app with on-device receipt OCR (React Native / Expo)
-- [rn-audio-fix](https://github.com/developeras95/rn-audio-fix) — audio cleanup and enhancement app (React Native)
+- [expense-tracker](https://github.com/developeras95/expense-tracker) — expense tracking app with on-device receipt OCR (React Native / Expo)
+- [audio-fix](https://github.com/developeras95/audio-fix) — audio cleanup and enhancement app (React Native)
 
 ## Java / Spring Boot
 
