@@ -9,7 +9,7 @@ Full-stack developer working across mobile, backend, and web.
 
 ## Java / Spring Boot
 
-_Projects will be listed here as they're added._
+- [duewise-invoicing-api](https://github.com/developeras95/duewise-invoicing-api) — invoicing, payments and automatic overdue reminders as a REST API (Spring Boot 4, PostgreSQL, Docker, CI)
 
 ## React
 
